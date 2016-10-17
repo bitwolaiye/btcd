@@ -25,7 +25,7 @@ var (
 	// Default global config.
 	cfg = &config{
 		DataDir: filepath.Join(btcdHomeDir, "data"),
-		DbType:  "ffldb",
+		DbType:  "mysqldb",
 	}
 )
 

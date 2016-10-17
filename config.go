@@ -22,6 +22,7 @@ import (
 
 	"github.com/bitwolaiye/btcd/database"
 	_ "github.com/bitwolaiye/btcd/database/ffldb"
+	_ "github.com/bitwolaiye/btcd/database/mysqldb"
 	"github.com/bitwolaiye/btcd/mempool"
 	"github.com/bitwolaiye/btcd/wire"
 	"github.com/btcsuite/btcutil"
@@ -41,7 +42,7 @@ const (
 	defaultMaxRPCClients         = 10
 	defaultMaxRPCWebsockets      = 25
 	defaultVerifyEnabled         = false
-	defaultDbType                = "ffldb"
+	defaultDbType                = "mysqldb"
 	defaultFreeTxRelayLimit      = 15.0
 	defaultBlockMinSize          = 0
 	defaultBlockMaxSize          = 750000

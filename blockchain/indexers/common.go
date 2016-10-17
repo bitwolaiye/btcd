@@ -10,8 +10,8 @@ package indexers
 import (
 	"encoding/binary"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/database"
+	"github.com/bitwolaiye/btcd/blockchain"
+	"github.com/bitwolaiye/btcd/database"
 	"github.com/btcsuite/btcutil"
 )
 

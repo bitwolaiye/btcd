@@ -7,7 +7,7 @@ package mining
 import (
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/bitwolaiye/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcutil"
 )
 

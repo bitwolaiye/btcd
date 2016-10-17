@@ -8,9 +8,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bitwolaiye/btcd/btcec"
+	"github.com/bitwolaiye/btcd/chaincfg"
+	"github.com/bitwolaiye/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

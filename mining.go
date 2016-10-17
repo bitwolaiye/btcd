@@ -10,12 +10,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/mempool"
-	"github.com/btcsuite/btcd/mining"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bitwolaiye/btcd/blockchain"
+	"github.com/bitwolaiye/btcd/chaincfg/chainhash"
+	"github.com/bitwolaiye/btcd/mempool"
+	"github.com/bitwolaiye/btcd/mining"
+	"github.com/bitwolaiye/btcd/txscript"
+	"github.com/bitwolaiye/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

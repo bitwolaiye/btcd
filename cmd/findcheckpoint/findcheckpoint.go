@@ -9,10 +9,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
+	"github.com/bitwolaiye/btcd/blockchain"
+	"github.com/bitwolaiye/btcd/chaincfg"
+	"github.com/bitwolaiye/btcd/chaincfg/chainhash"
+	"github.com/bitwolaiye/btcd/database"
 )
 
 const blockDbNamePrefix = "blocks"

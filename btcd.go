@@ -14,8 +14,8 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/btcsuite/btcd/blockchain/indexers"
-	"github.com/btcsuite/btcd/limits"
+	"github.com/bitwolaiye/btcd/blockchain/indexers"
+	"github.com/bitwolaiye/btcd/limits"
 )
 
 var (

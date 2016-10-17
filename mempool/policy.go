@@ -7,9 +7,9 @@ package mempool
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bitwolaiye/btcd/blockchain"
+	"github.com/bitwolaiye/btcd/txscript"
+	"github.com/bitwolaiye/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

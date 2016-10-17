@@ -13,12 +13,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bitwolaiye/btcd/blockchain"
+	"github.com/bitwolaiye/btcd/chaincfg"
+	"github.com/bitwolaiye/btcd/chaincfg/chainhash"
+	"github.com/bitwolaiye/btcd/database"
+	_ "github.com/bitwolaiye/btcd/database/ffldb"
+	"github.com/bitwolaiye/btcd/wire"
 )
 
 const (
